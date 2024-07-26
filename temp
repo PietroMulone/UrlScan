@@ -1,0 +1,11 @@
+Target: https://sg.support.garena.com/FUZZ
+Total requests: 5561
+==================================================================
+ID    Response   Lines      Word         Chars          Request    
+==================================================================
+05356:  C=400      0 L	       3 W	     15 Ch	  "%NETHOOD%/"
+
+Total time: 0
+Processed Requests: 5561
+Filtered Requests: 5560
+Requests/sec.: 0
